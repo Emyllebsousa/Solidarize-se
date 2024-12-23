@@ -1,12 +1,15 @@
-# Solidarize-se
- <p> é uma plataforma inovadora e compassiva dedicada a promover a solidariedade e a facilitar doações para causas significativas ao redor do mundo.</p>
+## Solidarize-se
 
-# Principais Funcionalidades
+<p align="justify"> é uma plataforma inovadora e compassiva dedicada a promover a solidariedade e a facilitar doações para causas significativas ao redor do mundo. </p>
+
+## Principais Funcionalidades
 
 - Plataforma para doações e ações de solidariedade
 - Facilitar o processo de doações para causas importantes
 - Conectar pessoas e organizações interessadas em ajudar
-# Tecnologias Utilizadas
+
+
+##  Tecnologias Utilizadas
 - HTML
 - CSS
 - JavaScript
